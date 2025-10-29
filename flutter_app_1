@@ -273,4 +273,5 @@ class BColors {
   static Color snowWhite = Color(0xFFFAFCFC); 
   static Color stoneGrey = Color(0xFF91949B); 
   static Color transparent = Color(0x00000000);
+
 }
